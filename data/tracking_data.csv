@@ -1,0 +1,301 @@
+source,campaign,brand,product,influencer_id,user_id,date,orders,revenue
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,1,374,2025-07-20,1,245.38
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,17,461,2025-07-20,1,239.66
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,16,823,2025-07-20,2,348.94
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,6,771,2025-07-20,1,296.72
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,10,83,2025-07-20,1,128.13
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,19,685,2025-07-20,1,111.54
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,2,348,2025-07-20,3,65.64
+Organic,HKVitals_Launch2024,HKVitals,Biotin,3,891,2025-07-20,2,427.57
+Paid,HKVitals_Launch2024,HKVitals,Biotin,17,624,2025-07-20,3,24.1
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,14,578,2025-07-20,3,114.35
+Organic,HKVitals_Launch2024,HKVitals,Biotin,2,806,2025-07-20,2,299.06
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,19,447,2025-07-20,2,180.65
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,15,542,2025-07-20,3,266.57
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,4,138,2025-07-20,4,422.62
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,5,546,2025-07-20,2,251.38
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,11,752,2025-07-20,3,47.17
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,95,2025-07-20,3,78.03
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,3,667,2025-07-20,1,486.82
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,19,789,2025-07-20,1,179.09
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,6,513,2025-07-20,1,235.78
+Organic,HKVitals_Launch2024,HKVitals,Biotin,17,78,2025-07-20,2,348.29
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,15,121,2025-07-20,2,50.06
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,16,573,2025-07-20,1,145.67
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,3,253,2025-07-20,4,112.58
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,14,474,2025-07-20,4,190.77
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,14,699,2025-07-20,4,75.23
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,14,363,2025-07-20,3,24.93
+Organic,HKVitals_Launch2024,HKVitals,Biotin,3,883,2025-07-20,3,61.39
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,10,39,2025-07-20,1,421.95
+Organic,HKVitals_Launch2024,HKVitals,Biotin,12,537,2025-07-20,1,178.03
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,3,233,2025-07-20,1,245.0
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,15,776,2025-07-20,4,221.51
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,5,518,2025-07-20,4,326.5
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,13,966,2025-07-20,1,467.51
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,6,582,2025-07-20,3,249.03
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,9,759,2025-07-20,3,267.01
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,6,322,2025-07-20,4,485.04
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,17,606,2025-07-20,4,364.22
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,15,715,2025-07-20,4,243.54
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,6,410,2025-07-20,2,358.37
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,12,559,2025-07-20,1,309.2
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,11,511,2025-07-20,4,167.11
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,18,10,2025-07-20,1,41.05
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,2,596,2025-07-20,1,78.02
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,11,911,2025-07-20,4,306.99
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,17,581,2025-07-20,2,375.53
+Paid,HKVitals_Launch2024,HKVitals,Biotin,11,137,2025-07-20,2,98.8
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,8,779,2025-07-20,1,377.75
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,5,5,2025-07-20,3,335.95
+Organic,HKVitals_Launch2024,HKVitals,Biotin,13,42,2025-07-20,1,344.66
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,19,637,2025-07-20,2,274.49
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,17,225,2025-07-20,3,198.11
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,8,947,2025-07-20,3,67.28
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,19,968,2025-07-20,2,78.24
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,1,478,2025-07-20,3,290.84
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,1,997,2025-07-20,3,374.53
+Organic,HKVitals_Launch2024,HKVitals,Biotin,2,522,2025-07-20,1,439.62
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,13,159,2025-07-20,3,424.76
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,5,157,2025-07-20,3,210.39
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,19,755,2025-07-20,4,275.93
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,20,11,2025-07-20,2,455.14
+Organic,HKVitals_Launch2024,HKVitals,Biotin,15,346,2025-07-20,2,311.33
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,18,985,2025-07-20,1,18.87
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,4,324,2025-07-20,1,462.02
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,9,51,2025-07-20,1,61.08
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,1,814,2025-07-20,1,492.57
+Organic,HKVitals_Launch2024,HKVitals,Biotin,1,831,2025-07-20,2,264.23
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,9,309,2025-07-20,1,110.73
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,803,2025-07-20,3,213.11
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,2,903,2025-07-20,2,245.61
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,11,955,2025-07-20,4,457.25
+Paid,HKVitals_Launch2024,HKVitals,Biotin,7,180,2025-07-20,2,26.6
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,11,662,2025-07-20,2,16.42
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,17,84,2025-07-20,1,82.84
+Organic,HKVitals_Launch2024,HKVitals,Biotin,8,561,2025-07-20,3,301.74
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,19,891,2025-07-20,4,450.05
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,13,477,2025-07-20,2,419.92
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,14,371,2025-07-20,3,268.55
+Paid,HKVitals_Launch2024,HKVitals,Biotin,18,222,2025-07-20,2,385.02
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,7,643,2025-07-20,4,143.43
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,1,87,2025-07-20,3,86.51
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,8,833,2025-07-20,1,118.77
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,8,54,2025-07-20,1,401.96
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,15,264,2025-07-20,2,404.6
+Organic,HKVitals_Launch2024,HKVitals,Biotin,14,491,2025-07-20,4,204.62
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,14,735,2025-07-20,3,449.2
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,1,151,2025-07-20,1,23.0
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,18,514,2025-07-20,1,410.55
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,2,707,2025-07-20,3,26.77
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,226,2025-07-20,1,154.29
+Organic,HKVitals_Launch2024,HKVitals,Biotin,17,714,2025-07-20,2,248.84
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,17,882,2025-07-20,3,261.1
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,13,281,2025-07-20,3,116.83
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,4,666,2025-07-20,2,451.28
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,11,838,2025-07-20,2,269.53
+Paid,HKVitals_Launch2024,HKVitals,Biotin,6,34,2025-07-20,1,208.57
+Organic,HKVitals_Launch2024,HKVitals,Biotin,10,342,2025-07-20,1,139.21
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,8,610,2025-07-20,4,320.22
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,13,401,2025-07-20,2,208.15
+Organic,HKVitals_Launch2024,HKVitals,Biotin,2,822,2025-07-20,3,100.34
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,11,296,2025-07-20,3,184.28
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,8,227,2025-07-20,2,243.26
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,5,312,2025-07-20,1,142.26
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,3,244,2025-07-20,3,424.74
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,2,201,2025-07-20,2,242.38
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,17,641,2025-07-20,1,355.41
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,3,131,2025-07-20,2,401.71
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,2,524,2025-07-20,3,164.15
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,17,330,2025-07-20,1,228.54
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,16,216,2025-07-20,3,368.79
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,5,374,2025-07-20,4,426.11
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,12,655,2025-07-20,3,493.96
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,10,16,2025-07-20,3,499.68
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,7,782,2025-07-20,3,351.74
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,8,498,2025-07-20,3,472.69
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,20,935,2025-07-20,3,166.36
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,14,159,2025-07-20,4,122.7
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,5,171,2025-07-20,4,226.11
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,15,888,2025-07-20,1,273.82
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,18,161,2025-07-20,4,219.14
+Paid,HKVitals_Launch2024,HKVitals,Biotin,3,170,2025-07-20,2,20.42
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,18,416,2025-07-20,4,401.4
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,17,477,2025-07-20,2,245.14
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,12,239,2025-07-20,1,386.45
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,20,389,2025-07-20,1,127.0
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,18,324,2025-07-20,2,124.47
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,14,975,2025-07-20,1,63.64
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,12,187,2025-07-20,2,401.01
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,6,807,2025-07-20,4,443.26
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,2,153,2025-07-20,3,495.67
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,19,493,2025-07-20,2,123.03
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,9,753,2025-07-20,2,392.0
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,15,727,2025-07-20,1,263.95
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,10,419,2025-07-20,2,250.68
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,3,998,2025-07-20,1,119.67
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,4,910,2025-07-20,1,54.83
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,9,195,2025-07-20,1,427.57
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,8,537,2025-07-20,1,370.25
+Organic,HKVitals_Launch2024,HKVitals,Biotin,15,38,2025-07-20,4,350.9
+Organic,HKVitals_Launch2024,HKVitals,Biotin,5,316,2025-07-20,4,344.8
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,18,40,2025-07-20,1,245.49
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,3,568,2025-07-20,4,342.23
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,1,262,2025-07-20,4,400.74
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,681,2025-07-20,1,420.14
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,4,191,2025-07-20,3,378.83
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,13,826,2025-07-20,1,24.33
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,11,437,2025-07-20,2,455.26
+Organic,HKVitals_Launch2024,HKVitals,Biotin,14,589,2025-07-20,1,136.76
+Paid,HKVitals_Launch2024,HKVitals,Biotin,14,667,2025-07-20,1,284.32
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,13,675,2025-07-20,4,62.42
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,9,224,2025-07-20,2,177.52
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,4,916,2025-07-20,4,387.72
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,12,918,2025-07-20,1,295.26
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,18,306,2025-07-20,2,487.01
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,3,948,2025-07-20,1,197.97
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,6,879,2025-07-20,3,411.2
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,2,430,2025-07-20,2,498.59
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,39,2025-07-20,3,399.46
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,2,687,2025-07-20,2,122.73
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,17,382,2025-07-20,4,25.34
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,869,2025-07-20,3,482.62
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,3,507,2025-07-20,1,167.16
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,3,832,2025-07-20,1,329.32
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,16,539,2025-07-20,4,88.03
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,8,591,2025-07-20,3,423.94
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,12,693,2025-07-20,4,461.22
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,15,153,2025-07-20,2,67.48
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,20,740,2025-07-20,1,108.26
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,2,344,2025-07-20,4,162.08
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,18,990,2025-07-20,4,203.82
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,11,301,2025-07-20,1,431.46
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,11,214,2025-07-20,3,61.42
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,14,672,2025-07-20,3,254.46
+Organic,HKVitals_Launch2024,HKVitals,Biotin,1,714,2025-07-20,4,14.79
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,1,745,2025-07-20,1,50.43
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,7,194,2025-07-20,2,288.1
+Organic,HKVitals_Launch2024,HKVitals,Biotin,15,994,2025-07-20,2,92.07
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,3,635,2025-07-20,2,301.44
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,370,2025-07-20,4,436.77
+Organic,HKVitals_Launch2024,HKVitals,Biotin,20,318,2025-07-20,3,409.26
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,16,900,2025-07-20,2,410.48
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,9,700,2025-07-20,2,224.92
+Organic,HKVitals_Launch2024,HKVitals,Biotin,12,909,2025-07-20,1,437.17
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,14,356,2025-07-20,1,99.24
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,19,812,2025-07-20,2,20.22
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,9,59,2025-07-20,3,49.95
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,15,353,2025-07-20,3,236.69
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,20,805,2025-07-20,4,370.32
+Organic,HKVitals_Launch2024,HKVitals,Biotin,18,689,2025-07-20,3,293.55
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,4,578,2025-07-20,3,451.34
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,19,371,2025-07-20,2,457.06
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,8,21,2025-07-20,3,125.54
+Organic,HKVitals_Launch2024,HKVitals,Biotin,16,478,2025-07-20,3,319.94
+Organic,HKVitals_Launch2024,HKVitals,Biotin,5,837,2025-07-20,2,251.22
+Organic,HKVitals_Launch2024,HKVitals,Biotin,15,14,2025-07-20,4,293.91
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,17,891,2025-07-20,1,485.01
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,5,449,2025-07-20,4,303.37
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,11,10,2025-07-20,3,226.59
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,12,862,2025-07-20,1,221.13
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,20,284,2025-07-20,1,306.71
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,5,305,2025-07-20,1,355.64
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,12,251,2025-07-20,1,26.75
+Paid,HKVitals_Launch2024,HKVitals,Biotin,5,20,2025-07-20,2,29.28
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,5,757,2025-07-20,3,164.92
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,12,490,2025-07-20,4,493.45
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,2,217,2025-07-20,2,486.82
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,15,427,2025-07-20,2,177.9
+Paid,HKVitals_Launch2024,HKVitals,Biotin,13,308,2025-07-20,4,470.51
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,1,776,2025-07-20,1,227.44
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,15,802,2025-07-20,1,420.68
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,18,978,2025-07-20,1,417.13
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,12,987,2025-07-20,4,399.8
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,654,2025-07-20,1,336.82
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,2,704,2025-07-20,2,165.87
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,781,2025-07-20,1,54.34
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,4,610,2025-07-20,1,384.94
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,2,594,2025-07-20,1,400.93
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,1,344,2025-07-20,2,276.8
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,1,76,2025-07-20,2,204.12
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,1,305,2025-07-20,4,192.89
+Paid,HKVitals_Launch2024,HKVitals,Biotin,3,968,2025-07-20,2,324.86
+Paid,HKVitals_Launch2024,HKVitals,Biotin,3,85,2025-07-20,2,476.22
+Organic,HKVitals_Launch2024,HKVitals,Biotin,12,133,2025-07-20,2,268.05
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,15,43,2025-07-20,4,279.21
+Organic,HKVitals_Launch2024,HKVitals,Biotin,11,21,2025-07-20,3,221.12
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,15,793,2025-07-20,4,464.25
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,13,470,2025-07-20,3,59.7
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,20,494,2025-07-20,3,465.51
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,10,420,2025-07-20,2,360.91
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,11,263,2025-07-20,3,431.11
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,7,959,2025-07-20,4,398.77
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,4,84,2025-07-20,4,52.65
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,13,362,2025-07-20,3,476.19
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,9,26,2025-07-20,1,326.84
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,10,584,2025-07-20,4,183.18
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,4,50,2025-07-20,4,413.08
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,18,915,2025-07-20,4,83.35
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,15,561,2025-07-20,3,435.94
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,17,662,2025-07-20,4,163.01
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,11,650,2025-07-20,1,201.54
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,2,320,2025-07-20,3,302.55
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,7,937,2025-07-20,1,17.75
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,6,554,2025-07-20,4,144.34
+Organic,HKVitals_Launch2024,HKVitals,Biotin,5,353,2025-07-20,4,104.01
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,999,2025-07-20,4,226.78
+Paid,HKVitals_Launch2024,HKVitals,Biotin,12,539,2025-07-20,4,274.61
+Organic,HKVitals_Launch2024,HKVitals,Biotin,3,812,2025-07-20,1,233.86
+Organic,HKVitals_Launch2024,HKVitals,Biotin,12,770,2025-07-20,2,283.31
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,20,264,2025-07-20,2,285.53
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,15,311,2025-07-20,4,210.64
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,16,12,2025-07-20,1,157.42
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,13,279,2025-07-20,4,487.34
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,8,248,2025-07-20,4,129.39
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,6,406,2025-07-20,2,396.07
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,12,550,2025-07-20,4,357.28
+Paid,HKVitals_Launch2024,HKVitals,Biotin,18,749,2025-07-20,2,196.65
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,9,449,2025-07-20,3,414.39
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,4,466,2025-07-20,3,89.26
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,5,244,2025-07-20,2,255.56
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,18,429,2025-07-20,3,340.41
+Organic,HKVitals_Launch2024,HKVitals,Biotin,6,67,2025-07-20,4,113.87
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,3,578,2025-07-20,3,350.53
+Organic,HKVitals_Launch2024,HKVitals,Biotin,18,768,2025-07-20,2,413.02
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,1,164,2025-07-20,3,248.66
+Organic,HKVitals_Launch2024,HKVitals,Biotin,14,381,2025-07-20,4,256.26
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,13,117,2025-07-20,2,43.4
+Paid,HKVitals_Launch2024,HKVitals,Biotin,15,580,2025-07-20,1,279.27
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,20,658,2025-07-20,1,61.78
+Paid,HKVitals_Launch2024,HKVitals,Biotin,11,254,2025-07-20,2,328.6
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,5,467,2025-07-20,2,235.3
+Paid,HKVitals_Launch2024,HKVitals,Biotin,18,253,2025-07-20,3,350.57
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,9,99,2025-07-20,1,69.48
+Paid,HKVitals_Launch2024,HKVitals,Biotin,7,80,2025-07-20,4,40.52
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,5,359,2025-07-20,4,160.06
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,5,628,2025-07-20,3,230.39
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,14,455,2025-07-20,1,199.67
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,2,574,2025-07-20,3,215.1
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,10,471,2025-07-20,2,102.95
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,18,493,2025-07-20,1,107.44
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,4,465,2025-07-20,3,140.27
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,20,768,2025-07-20,3,83.13
+Organic,HKVitals_Launch2024,HKVitals,Biotin,20,624,2025-07-20,4,329.34
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,20,925,2025-07-20,2,202.27
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,9,192,2025-07-20,1,332.76
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,16,29,2025-07-20,1,422.03
+Organic,HKVitals_Launch2024,HKVitals,Biotin,8,789,2025-07-20,4,322.23
+Paid,HKVitals_Launch2024,HKVitals,Biotin,8,945,2025-07-20,3,445.8
+Paid,Gritzo_Launch2024,Gritzo,ProteinShake,19,581,2025-07-20,4,494.25
+Organic,Gritzo_Launch2024,Gritzo,SuperMilk,13,200,2025-07-20,1,375.64
+Paid,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,3,664,2025-07-20,1,478.69
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Creatine,14,228,2025-07-20,3,485.67
+Paid,Gritzo_Launch2024,Gritzo,SuperMilk,19,491,2025-07-20,2,58.21
+Organic,HKVitals_Launch2024,HKVitals,Biotin,8,320,2025-07-20,2,20.26
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,8,921,2025-07-20,1,197.15
+Paid,HKVitals_Launch2024,HKVitals,Multivitamin,4,382,2025-07-20,4,389.57
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,18,778,2025-07-20,1,71.36
+Organic,Gritzo_Launch2024,Gritzo,ProteinShake,13,693,2025-07-20,4,376.56
+Organic,HKVitals_Launch2024,HKVitals,Multivitamin,15,273,2025-07-20,4,303.28
+Organic,MuscleBlaze_Launch2024,MuscleBlaze,Whey Gold,14,124,2025-07-20,2,310.34
+Organic,HKVitals_Launch2024,HKVitals,Biotin,20,725,2025-07-20,4,106.76

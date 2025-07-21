@@ -1,0 +1,21 @@
+id,name,category,gender,follower_count,platform,city,age_group,persona
+1,Kevin Smith,Lifestyle,Male,332236,Twitter,Chennai,36-45,Lifestyle_Male
+2,Patricia Chavez,Fitness,Male,4890,Instagram,Chennai,36-45,Fitness_Male
+3,Sarah Garcia,Lifestyle,Female,42606,Twitter,Delhi,36-45,Lifestyle_Female
+4,Kelly Walker,Lifestyle,Female,490492,Twitter,Kolkata,18-25,Lifestyle_Female
+5,Vanessa Joseph,Fitness,Male,257840,YouTube,Kolkata,36-45,Fitness_Male
+6,Jamie Torres,Fitness,Male,474254,Instagram,Mumbai,36-45,Fitness_Male
+7,Mark Ewing,Lifestyle,Male,350457,YouTube,Kolkata,18-25,Lifestyle_Male
+8,Steven Warner,Nutrition,Other,142699,YouTube,Mumbai,36-45,Nutrition_Other
+9,Kristen Collins,Lifestyle,Other,271936,YouTube,Delhi,18-25,Lifestyle_Other
+10,Timothy Boyd,Lifestyle,Other,240931,YouTube,Chennai,26-35,Lifestyle_Other
+11,Danielle Reyes,Lifestyle,Female,240629,YouTube,Chennai,36-45,Lifestyle_Female
+12,Gabrielle Martin,Lifestyle,Other,206041,YouTube,Chennai,26-35,Lifestyle_Other
+13,Sandra Green,Fitness,Female,175073,YouTube,Kolkata,18-25,Fitness_Female
+14,Jessica Willis,Lifestyle,Female,208624,Instagram,Delhi,36-45,Lifestyle_Female
+15,Luis Brock,Nutrition,Other,418113,Twitter,Kolkata,18-25,Nutrition_Other
+16,Travis Mcpherson,Fitness,Female,69148,YouTube,Kolkata,26-35,Fitness_Female
+17,Rhonda Hansen,Nutrition,Other,253801,YouTube,Delhi,18-25,Nutrition_Other
+18,Timothy Watkins,Nutrition,Other,125243,YouTube,Delhi,36-45,Nutrition_Other
+19,Daniel Boyd,Nutrition,Male,252995,YouTube,Delhi,36-45,Nutrition_Male
+20,Michael Hudson,Nutrition,Other,383318,YouTube,Delhi,26-35,Nutrition_Other

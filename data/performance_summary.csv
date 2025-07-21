@@ -1,0 +1,21 @@
+influencer_id,orders,revenue,id,name,category,gender,follower_count,platform,city,age_group,persona
+1,35,3392.93,1,Kevin Smith,Lifestyle,Male,332236,Twitter,Chennai,36-45,Lifestyle_Male
+2,42,4511.93,2,Patricia Chavez,Fitness,Male,4890,Instagram,Chennai,36-45,Fitness_Male
+3,37,5502.18,3,Sarah Garcia,Lifestyle,Female,42606,Twitter,Delhi,36-45,Lifestyle_Female
+4,37,4078.41,4,Kelly Walker,Lifestyle,Female,490492,Twitter,Kolkata,18-25,Lifestyle_Female
+5,52,4353.25,5,Vanessa Joseph,Fitness,Male,257840,YouTube,Kolkata,36-45,Fitness_Male
+6,29,3342.25,6,Jamie Torres,Fitness,Male,474254,Instagram,Mumbai,36-45,Fitness_Male
+7,20,1266.91,7,Mark Ewing,Lifestyle,Male,350457,YouTube,Kolkata,18-25,Lifestyle_Male
+8,39,4338.23,8,Steven Warner,Nutrition,Other,142699,YouTube,Mumbai,36-45,Nutrition_Other
+9,36,4284.66,9,Kristen Collins,Lifestyle,Other,271936,YouTube,Delhi,18-25,Lifestyle_Other
+10,16,2086.69,10,Timothy Boyd,Lifestyle,Other,240931,YouTube,Chennai,26-35,Lifestyle_Other
+11,42,3904.65,11,Danielle Reyes,Lifestyle,Female,240629,YouTube,Chennai,36-45,Lifestyle_Female
+12,36,5286.68,12,Gabrielle Martin,Lifestyle,Other,206041,YouTube,Chennai,26-35,Lifestyle_Other
+13,38,4357.92,13,Sandra Green,Fitness,Female,175073,YouTube,Kolkata,18-25,Fitness_Female
+14,45,3540.71,14,Jessica Willis,Lifestyle,Female,208624,Instagram,Delhi,36-45,Lifestyle_Female
+15,57,5647.6,15,Luis Brock,Nutrition,Other,418113,Twitter,Kolkata,18-25,Nutrition_Other
+16,26,3633.25,16,Travis Mcpherson,Fitness,Female,69148,YouTube,Kolkata,26-35,Fitness_Female
+17,34,3645.14,17,Rhonda Hansen,Nutrition,Other,253801,YouTube,Delhi,18-25,Nutrition_Other
+18,42,4810.3,18,Timothy Watkins,Nutrition,Other,125243,YouTube,Delhi,36-45,Nutrition_Other
+19,28,2702.76,19,Daniel Boyd,Nutrition,Male,252995,YouTube,Delhi,36-45,Nutrition_Male
+20,34,3477.37,20,Michael Hudson,Nutrition,Other,383318,YouTube,Delhi,26-35,Nutrition_Other
