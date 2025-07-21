@@ -58,6 +58,20 @@ healthkart-influencer-dashboard/
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
 ```
+---
+
+### Dashboard Preview
+
+![Brand and Social Platforms](assets/1.png)
+![Brand Filters](assets/2.png)
+![Dashboard-snippet](assets/3.png)
+
+---
+
+### Persona and ROAS Chart
+
+![Persona Chart](assets/4.png)
+![ROAS chart](assets/5.png)
 
 ---
 
